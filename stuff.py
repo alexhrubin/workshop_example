@@ -1,4 +1,4 @@
 import matplotlib.pyplot as plt
 
 
-plt.scatter([.....])
+plt.plot([...])
